@@ -1,0 +1,17 @@
+/package-lock.json
+/node_modules/
+/Intern/node_modules/
+
+# Python Virtual Environment
+/Intern/env/
+
+# Python Cache
+/Intern/__pycache__/
+*.pyc
+
+# Local Outputs or Generated files
+/Intern/Outputs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
